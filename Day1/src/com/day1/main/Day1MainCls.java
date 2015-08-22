@@ -1,5 +1,7 @@
 package com.day1.main;
 
+import com.day1.classes.HelloWorld;
+
 /**
  * 
  * @author Viswanatha 
@@ -11,6 +13,8 @@ public class Day1MainCls {
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 		System.out.println("Another Line added.");
+		
+		HelloWorld.sayHello("Shiva Sai");
 	}
 
 }
