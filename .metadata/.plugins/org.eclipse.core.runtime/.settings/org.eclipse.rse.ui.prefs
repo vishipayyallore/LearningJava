@@ -1,6 +1,5 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=origin/master
 eclipse.preferences.version=1
-<<<<<<< HEAD
-org.eclipse.rse.preferences.order.connections=LordKrishna-PC.Local
-=======
-org.eclipse.rse.preferences.order.connections=krishna.Local
->>>>>>> origin/master
+org.eclipse.rse.preferences.order.connections=krishna.Local;LordKrishna-PC.Local

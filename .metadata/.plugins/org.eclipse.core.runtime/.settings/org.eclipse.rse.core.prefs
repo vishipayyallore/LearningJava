@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-activeuserprofiles=LordKrishna-PC;Team
-eclipse.preferences.version=1
-org.eclipse.rse.systemtype.local.systemType.defaultUserId=Viswanatha
-=======
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=origin/master
+activeuserprofiles=LordKrishna-PC;Team;krishna
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=satyavathi
->>>>>>> origin/master
+useridperkey=LordKrishna-PC.Local\=satyavathi;krishna.Local\=satyavathi;
