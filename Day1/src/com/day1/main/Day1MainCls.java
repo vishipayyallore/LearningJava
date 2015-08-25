@@ -1,6 +1,6 @@
 package com.day1.main;
 
-import com.day1.classes.HelloWorld;
+import com.day1.classes.*;
 
 /**
  * 
@@ -14,7 +14,12 @@ public class Day1MainCls {
 		System.out.println("Hello World!");
 		System.out.println("Another Line added.");
 		
+		//Using Static Method
 		HelloWorld.sayHello("Shiva Sai");
+		
+		//Using Instance Method
+		HelloJava helloJava = new HelloJava();
+		helloJava.sayHello();
 	}
 
 }
