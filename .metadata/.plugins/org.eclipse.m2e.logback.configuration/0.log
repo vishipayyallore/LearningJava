@@ -1,0 +1,4 @@
+2015-08-23 23:33:08,037 [Worker-0] WARN  org.eclipse.equinox.logger - Enablement expression is missing for config provider for org.eclipse.launchbar.core.descriptorType.default - org.eclipse.launchbar.core, id: 2344
+2015-08-23 23:33:08,037 [Worker-0] WARN  org.eclipse.equinox.logger - Enablement expression is missing for config provider for org.eclipse.launchbar.core.descriptorType.default - org.eclipse.launchbar.core, id: 2344 - org.eclipse.m2e.logback.appender, id: 553
+2015-08-25 07:25:09,888 [main] WARN  org.eclipse.equinox.logger - Both 'org.eclipse.bpmn2' and 'org.eclipse.papyrus.infra.core.sasheditor.di' register an extension parser for 'di' - org.eclipse.emf.ecore, id: 282
+2015-08-25 07:25:09,890 [main] WARN  org.eclipse.equinox.logger - Both 'org.eclipse.bpmn2' and 'org.eclipse.papyrus.infra.core.sasheditor.di' register an extension parser for 'di' - org.eclipse.emf.ecore, id: 282 - org.eclipse.m2e.logback.appender, id: 553

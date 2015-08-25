@@ -1,0 +1,4 @@
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Day1MainCls
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Day1MainCls/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Day1MainCls/activeLaunchTarget=org.eclipse.remote.LocalServices\:Local
