@@ -1,0 +1,13 @@
+package com.day1.classes;
+
+/**
+ * 
+ * @author Viswanatha
+ *
+ */
+
+public class VariableDemo {
+
+	public int number;
+	
+}

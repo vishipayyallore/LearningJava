@@ -1,0 +1,17 @@
+package com.day1.classes;
+
+/**
+ * 
+ * @author Viswanatha
+ *
+ */
+
+public class IfStatementDemo {
+
+	public static void showIfStatementDemo(){
+		int number1 = 10, number2 = 20;
+		
+		
+	}
+	
+}

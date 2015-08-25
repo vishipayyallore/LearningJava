@@ -1,0 +1,25 @@
+package com.day1.classes;
+
+/**
+ * 
+ * @author Viswanatha
+ *
+ */
+
+public class VariableDemo {
+
+	private static int number;
+	
+	/**
+	 * 
+	 * @param _number
+	 */
+	public static void setNumber(int _number){
+		number = _number;
+	}
+	
+	public static void displayNumber(){
+		
+	}
+	
+}

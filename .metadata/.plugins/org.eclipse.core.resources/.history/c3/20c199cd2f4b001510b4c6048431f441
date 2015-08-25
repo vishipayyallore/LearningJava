@@ -1,0 +1,19 @@
+package com.day1.classes;
+
+/**
+ * 
+ * @author Viswanatha
+ *
+ */
+
+public class VariableDemo {
+
+	private int number;
+	
+	
+	public static void setNumber(int _number){
+		number = _number;
+	}
+	
+	
+}

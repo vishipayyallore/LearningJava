@@ -1,0 +1,15 @@
+package com.day1.classes;
+
+/**
+ * 
+ * @author Viswanatha
+ *
+ */
+
+public class IfStatementDemo {
+
+	public static void showIfStatementDemo(){
+		
+	}
+	
+}

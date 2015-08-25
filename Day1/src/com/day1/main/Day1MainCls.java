@@ -11,7 +11,18 @@ import com.day1.classes.*;
 public class Day1MainCls {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World!");
+		
+		LoopDemo.showLoopDemo();
+		
+		IfStatementDemo.showIfStatementDemo();
+		
+		VariableDemo.setNumber(10);
+		VariableDemo.displayNumber();
+		
+		VariableDemo.setNumber(1001);
+		VariableDemo.displayNumber();
+		
+		System.out.println("\n\nHello World!");
 		System.out.println("Another Line added.");
 		
 		//Using Static Method
@@ -20,6 +31,7 @@ public class Day1MainCls {
 		//Using Instance Method
 		HelloJava helloJava = new HelloJava();
 		helloJava.sayHello();
+		
 	}
 
 }
