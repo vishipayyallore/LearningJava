@@ -10,7 +10,7 @@ public class VariableDemo {
 
 	private static int _number;
 	private static char _character = 'a';
-		
+
 	/**
 	 * 
 	 * @param _number

@@ -12,25 +12,32 @@ public class Day1MainCls {
 
 	public static void main(String[] args) {
 		
-		LoopDemo.showLoopDemo();
+		System.out.println("\n\nHello World!");
+		System.out.println("Another Line added.");
 		
-		IfStatementDemo.showIfStatementDemo();
+		//Using Instance Method
+		HelloJava theObject = new HelloJava();
+		theObject.sayHello();
 		
+		//Using Static Method
+		HelloWorld.sayHello("Shiva Sai");
+
 		VariableDemo.setNumber(10);
 		VariableDemo.displayNumber();
 		
 		VariableDemo.setNumber(1001);
 		VariableDemo.displayNumber();
+		VariableDemo.displayAllVariables();
 		
-		System.out.println("\n\nHello World!");
-		System.out.println("Another Line added.");
+		/*
+		LoopDemo.showLoopDemo();
 		
-		//Using Static Method
-		HelloWorld.sayHello("Shiva Sai");
+		IfStatementDemo.showIfStatementDemo();
 		
-		//Using Instance Method
-		HelloJava helloJava = new HelloJava();
-		helloJava.sayHello();
+		
+		
+		
+		*/
 		
 	}
 

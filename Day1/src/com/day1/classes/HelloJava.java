@@ -12,8 +12,6 @@ package com.day1.classes;
 
 public class HelloJava {
 
-	//Variables
-
 	/**
 	 * 
 	 */
