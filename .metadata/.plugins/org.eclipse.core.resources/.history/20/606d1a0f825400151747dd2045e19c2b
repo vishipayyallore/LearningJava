@@ -1,0 +1,22 @@
+package com.day2.main;
+
+/**
+ * 
+ * @author Viswanatha
+ *
+ */
+
+public class Day2MainCls {
+
+	/**
+	 * 
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		//Variables
+		LightDemo lightDemo = new LightDemo();
+		
+		
+	}
+
+}

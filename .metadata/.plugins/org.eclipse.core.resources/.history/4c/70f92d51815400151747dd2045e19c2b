@@ -1,0 +1,19 @@
+package com.day2.classes;
+
+/**
+ * 
+ * @author Viswanatha
+ *
+ */
+
+public class LightDemo {
+
+	//Variables.
+	private final int lightSpeed = 186000;
+	private final int secondsInADay = (24 * 60 * 60);
+	
+	private int day;
+	private int distance;
+	
+	
+}
