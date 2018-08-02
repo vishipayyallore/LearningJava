@@ -16,3 +16,4 @@
 2015-09-05 16:25:45,669 [main] WARN  org.eclipse.equinox.logger - Both 'org.eclipse.bpmn2' and 'org.eclipse.papyrus.infra.core.sasheditor.di' register an extension parser for 'di' - org.eclipse.emf.ecore, id: 282 - org.eclipse.m2e.logback.appender, id: 553
 2015-09-06 15:23:55,143 [main] WARN  org.eclipse.equinox.logger - Both 'org.eclipse.bpmn2' and 'org.eclipse.papyrus.infra.core.sasheditor.di' register an extension parser for 'di' - org.eclipse.emf.ecore, id: 282
 2015-09-06 15:23:55,153 [main] WARN  org.eclipse.equinox.logger - Both 'org.eclipse.bpmn2' and 'org.eclipse.papyrus.infra.core.sasheditor.di' register an extension parser for 'di' - org.eclipse.emf.ecore, id: 282 - org.eclipse.m2e.logback.appender, id: 553
+2018-08-01 12:01:33,327 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
